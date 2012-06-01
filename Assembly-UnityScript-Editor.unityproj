@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\AddComponentRecursively.js" />
-     <None Include="Assets\Custom-Scripts\README.txt" />
      <None Include="Assets\TODO\crosshairOptions.txt" />
   </ItemGroup>
   <ItemGroup>

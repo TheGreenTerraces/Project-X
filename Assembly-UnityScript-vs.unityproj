@@ -44,26 +44,25 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Custom-Scripts\Game Logic\Action_KILL.js" />
-     <Compile Include="Assets\Custom-Scripts\Game Logic\Action_RESPAWN.js" />
-     <Compile Include="Assets\Custom-Scripts\Game Logic\Action_RUNNING.js" />
-     <Compile Include="Assets\Custom-Scripts\Game Logic\GUICrosshair.js" />
-     <Compile Include="Assets\Custom-Scripts\Game Logic\GameStateController.js" />
-     <Compile Include="Assets\Custom-Scripts\Game Logic\Reaction_DEATH.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\ArrayScript.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\ConnectGui.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\ConnectGuiMasterServer.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\NetworkLevelLoad.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\PlayerNetworkInit.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\PrefabPlayerInfo.js" />
-     <Compile Include="Assets\Custom-Scripts\Networking\SpawnPrefab.js" />
-     <Compile Include="Assets\Custom-Scripts\Round System\RoundClock.js" />
-     <Compile Include="Assets\Custom-Scripts\Round System\RoundControl.js" />
-     <Compile Include="Assets\Custom-Scripts\Sound\Footsteps.js" />
-     <Compile Include="Assets\Custom-Scripts\Title Screen\CameraControl.js" />
-     <Compile Include="Assets\Custom-Scripts\Title Screen\GUI_TITLE_MENU.js" />
-     <Compile Include="Assets\Custom-Scripts\Title Screen\MenuScripts\EnterGame.js" />
-     <None Include="Assets\Custom-Scripts\README.txt" />
+     <Compile Include="Assets\Custom Scripts\Game Logic\Action_KILL.js" />
+     <Compile Include="Assets\Custom Scripts\Game Logic\Action_RESPAWN.js" />
+     <Compile Include="Assets\Custom Scripts\Game Logic\Action_RUNNING.js" />
+     <Compile Include="Assets\Custom Scripts\Game Logic\GUICrosshair.js" />
+     <Compile Include="Assets\Custom Scripts\Game Logic\GameStateController.js" />
+     <Compile Include="Assets\Custom Scripts\Game Logic\Reaction_DEATH.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\ArrayScript.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\ConnectGui.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\ConnectGuiMasterServer.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\NetworkLevelLoad.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\PlayerNetworkInit.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\PrefabPlayerInfo.js" />
+     <Compile Include="Assets\Custom Scripts\Networking\SpawnPrefab.js" />
+     <Compile Include="Assets\Custom Scripts\Round System\RoundClock.js" />
+     <Compile Include="Assets\Custom Scripts\Round System\RoundControl.js" />
+     <Compile Include="Assets\Custom Scripts\Sound\Footsteps.js" />
+     <Compile Include="Assets\Custom Scripts\Title Screen\CameraControl.js" />
+     <Compile Include="Assets\Custom Scripts\Title Screen\GUI_TITLE_MENU.js" />
+     <Compile Include="Assets\Custom Scripts\Title Screen\MenuScripts\EnterGame.js" />
      <None Include="Assets\TODO\crosshairOptions.txt" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
