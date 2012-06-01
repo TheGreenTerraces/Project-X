@@ -1,0 +1,16 @@
+TODO:
+----
+Changeable Crosshair in options menu
+
+HOW:
+----
+By using this code (below) you can load images (or whatever) directly from the assets. 
+
+You have to put the asset in a folder called "Resources". Then it's a matter of using Resources.Load.
+
+myTexture = Resources.Load("Images/myImage") as Texture2D;
+
+Add a way to change between many kinds of crosshair in the options menu.
+
+
+PRIORITY: lowest

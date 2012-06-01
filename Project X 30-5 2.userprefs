@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Custom Scripts/GUICrosshair.js">
+    <Files>
+      <File FileName="Assets/Custom Scripts/Networking/PlayerNetworkInit.js" Line="35" Column="48" />
+      <File FileName="Assets/Custom Scripts/Action_KILL.js" Line="5" Column="54" />
+      <File FileName="Assets/Custom Scripts/Reaction_DEATH.js" Line="19" Column="7" />
+      <File FileName="Assets/Custom Scripts/ArrayScript.js" Line="24" Column="47" />
+      <File FileName="Assets/Custom Scripts/Networking/SpawnPrefab.js" Line="6" Column="57" />
+      <File FileName="Assets/Custom Scripts/GUICrosshair.js" Line="9" Column="134" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
